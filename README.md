@@ -21,7 +21,7 @@ of the `128.zip` zip bomb, containing fourteen layers of nested zip files
 in sets of 16, each bottom layer archive containing a 4.3 gigabyte
 (4 294 967 295 bytes; ~ 3.99 GiB) file for a total of 469.702776 Yottabytes of uncompressed data.
 
-So, if you extract all the files, you will most likely run out of space.
+So, if you extract all the files, you will hopefully run out of space.
 
 ### PASSWD
 ZoTD!
