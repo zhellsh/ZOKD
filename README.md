@@ -1,27 +1,17 @@
-# Zip of Total Death (ZoTD)
-This is a decompression bomb (also known as zip of death or zip bomb) designed t
-o crash or render useless the program or system reading it.
+# Chungoid.zip and the Birth of the Chungobyte
 
-It is usually a small file for ease of transport and to avoid suspicion.
-However, when the file is unpacked, its contents are more than the system can
-handle. It is often employed to disable antivirus software, in order to create
-an opening for more traditional viruses.
+Welcome to Chungoid.zip – the evolution of the legendary 42.zip!
 
-Rather than hijacking the normal operation of the program, a zip bomb allows the
-program to work as intended, but the archive is carefully crafted so that
-unpacking it (e.g. by a virus scanner in order to scan for viruses) requires
-inordinate amounts of time, disk space or memory.
+## About
+Chungoid.zip is the next chapter in the saga of zip bombs, building upon the legacy of the infamous 42.zip. Just like its predecessor, Chungoid.zip is designed to astonish and amaze with its mind-bending compression capabilities. With 18 layers of nested zip files, each layer containing 16 more zips within, Chungoid.zip takes the concept of zip bombs to unprecedented levels. Prepare to witness the birth of a new era in digital chaos!
 
-*Most modern antivirus programs can detect whether a file is a zip bomb, to
-avoid unpacking it.*
+## Introducing the Chungobyte
+But Chungoid.zip isn't just about pushing the limits of compression – it's also about redefining the scale of digital storage. Inspired by the sheer magnitude of Chungoid.zip, we introduce the Chungobyte – a unit of digital storage capacity that surpasses anything currently recognized by the International System of Units. Chungobyte symbolizes the boundary-pushing nature of technological innovation and serves as a reminder of the vast potential and power of digital data.
 
-### `128.zip`
-This repository contains the `9.zip` zip bomb, which is a zip file consisting
-of the `128.zip` zip bomb, containing fifteen layers of nested zip files
-in sets of 16, each bottom layer archive containing a 4.3 gigabyte
-(4 294 967 295 bytes; ~ 3.99 GiB) file for a total of 7515.24441 of uncompressed data.
+## Features
+- **Built on Tradition**: Inspired by the groundbreaking 42.zip, Chungoid.zip carries forward the tradition of pushing the limits of digital compression.
+- **Unmatched Complexity**: Dive deep into the intricate layers of nested zip files and uncover the secrets hidden within Chungoid.zip.
+- **Continuing the Legacy**: Chungoid.zip pays homage to its predecessor while charting its own path towards digital notoriety.
 
-So, if you extract all the files, you will hopefully run out of space.
-
-### PASSWD
-ZoTD!
+## Disclaimer
+While Chungoid.zip is intended for experimentation and exploration, it's important to use it responsibly and ethically. Zip bombs can have unintended consequences if misused or distributed without proper consideration. Always be mindful of the potential impact on systems and infrastructure when working with Chungoid.zip.
