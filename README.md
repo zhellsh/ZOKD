@@ -1,6 +1,6 @@
 # Chungoid.zip and the Birth of the Chungobyte
 
-Welcome to Chungoid.zip – the evolution of the legendary 42.zip!
+This is a decompression bomb (also known as zip of death or zip bomb) designed to melt everything it comes in contact with. 
 
 ## About
 Chungoid.zip is the next chapter in the saga of zip bombs, building upon the legacy of the infamous 42.zip. Just like its predecessor, Chungoid.zip is designed to astonish and amaze with its mind-bending compression capabilities. With 18 layers of nested zip files, each layer containing 16 more zips within, Chungoid.zip takes the concept of zip bombs to unprecedented levels. Prepare to witness the birth of a new era in digital chaos!
